@@ -15,6 +15,6 @@ public final class Ftest extends JavaPlugin {
     @Override
     public void onDisable() {
         // Plugin shutdown logic
-        Bukkit.getLogger().info("Hello World");
+        Bukkit.getLogger().info("Shutting down Ftest");
     }
 }
