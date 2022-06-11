@@ -1,0 +1,4 @@
+name: Ftest
+version: '${project.version}'
+main: ftest.ftest.Ftest
+api-version: 1.19
